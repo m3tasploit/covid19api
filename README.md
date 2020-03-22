@@ -10,5 +10,6 @@ endpoints:<br>
 <b>/fatalityRateSex</b>: probability of death rate for gender. ie chance for gender infected by covid to die.<br>
 <b>/countryList</b>: list of countries infected<br>
 <b>/countryWiseData/country</b>: country wise status for given country, country can be chosen from /countryList endpoint<br>
-
+<b>/stateWiseData</b>: status of all states in india<br>
+<b>/stateWiseData/state</b>: status of given state in india. state data is extracted from /stateWiseData<br>
 
