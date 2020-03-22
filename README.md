@@ -1,5 +1,6 @@
 # covid19api
 restful api for covid19 data<br>
+API Base url : https://covid19apiss.herokuapp.com/ <br>
 
 endpoints:<br>
 <b>/</b> : prints "Covid19 status API version 1.0.0" and available endpoints<br>
