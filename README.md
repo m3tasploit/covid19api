@@ -1,7 +1,7 @@
 # covid19api
-restful api for covid19 data
+restful api for covid19 data<br>
 
-endpoints:
+endpoints:<br>
 / : prints "Covid19 status API version 1.0.0" and available endpoints<br>
 /reports : world wide report, includes country wise covid status<br>
 /reportsIndia: current status of India, extracted from /reports response.<br>
